@@ -1,0 +1,15 @@
+Welcome to the gym
+Enter number of members:
+1
+Enter your name
+iqbal
+Enter your age:
+20
+Enter your membership Status:
+true
+Enter your membership duration:
+15
+Name: iqbal
+Age: 20
+Status: true
+Gym fee is 15000.0 for 15 months
