@@ -1,0 +1,10 @@
+Capacity of StringBuffer object sb116
+Capacity of StringBuffer object sb121
+Enter a String to reverse
+dfygfjyhw
+Reversed String in Uppercase WHYJFGYFD
+Enter a string to append
+yuwegfyu
+Hi I am yuwegfyu
+
+Process finished with exit code 0
